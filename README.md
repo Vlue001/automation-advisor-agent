@@ -1,5 +1,7 @@
 # Intelligent Process Automation Advisor
 
+[![CI](https://github.com/Vlue001/automation-advisor-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Vlue001/automation-advisor-agent/actions/workflows/ci.yml)
+
 > Work in progress — a LangGraph multi-agent system that takes a plain-language business process description and drafts an automation proposal, with a human-in-the-loop approval/revision loop.
 
 This is my second AI agent portfolio project (after a completed [CrewAI research agent](https://github.com/Vlue001/crewai-research-agent)) and my first time using LangGraph. Inspired by the kind of RPA + ML/AI workflow automation work done by teams like Bosch Service Solutions' Software & AI Automation group — built as a genuine learning project, not a copied case study.
