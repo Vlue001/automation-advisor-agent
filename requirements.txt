@@ -1,5 +1,5 @@
-langgraph
-langchain-anthropic
-python-dotenv
-pytest
-ruff
+langgraph==1.2.8
+langchain-anthropic==1.4.8
+python-dotenv==1.2.2
+pytest==9.1.1
+ruff==0.15.20
